@@ -1,0 +1,36 @@
+html { 
+  background: url(background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  border: 10px double #563f46;
+}
+
+body {
+	font-family: 'Alegreya Sans SC';font-size: 22px;
+	
+}
+p {
+	color: #625750;
+	text-align: center;
+}
+h1 {
+	color: black;
+	text-align: center;
+	
+}
+h2 {
+	color: ;
+	text-align: center;		
+}
+h3 {
+	color: #563f46;
+	text-align: center;
+}
+h4{
+	color: #bd5734;
+	text-align: center;
+hr {
+	border-color: #8ca3a3; height: 1px: border: 0;
+}
